@@ -57,7 +57,7 @@ const float MENU_CENTER_DEADZONE = 0.8f;
 const float SHAKE_THRESHOLD = 7.0f;
 
 const int SHAKE_JOY_CHANGE = 5;
-const int SHAKE_ENERGY_CHANGE = -2;
+const int SHAKE_ENERGY_CHANGE = -2;`
 const int SHAKE_FULLNESS_CHANGE = -1;
 
 const int PET_SPRITE_WIDTH = 32;
